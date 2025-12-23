@@ -1,0 +1,10 @@
+const vize = 50;
+const final = 100;
+let donemNotu = 50 * 0.3 + 100 * 0.7;
+let harfNotu;
+if (100 >= donemNotu && donemNotu >= 90) harfNotu = 'A';
+else if (89 >= donemNotu && donemNotu >= 80) harfNotu = 'B';
+else if (79 >= donemNotu && donemNotu >= 70) harfNotu = 'C';
+else if (69 >= donemNotu && donemNotu >= 60) harfNotu = 'D';
+else if (59 >= donemNotu && donemNotu >= 50) harfNotu = 'E';
+else if (50 > donemNotu) harfNotu = 'F';
