@@ -8,3 +8,4 @@ else if (79 >= donemNotu && donemNotu >= 70) harfNotu = 'C';
 else if (69 >= donemNotu && donemNotu >= 60) harfNotu = 'D';
 else if (59 >= donemNotu && donemNotu >= 50) harfNotu = 'E';
 else if (50 > donemNotu) harfNotu = 'F';
+ 
